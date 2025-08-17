@@ -59,6 +59,7 @@ esp_err_t my_uart_init(uart_t *uart) {
   if (err != ESP_OK)
     return err; // Return the error if configuration fails
 
+
   // Install UART driver
   err = uart_driver_install(uart->uart_nr, 1024, 0, 0, NULL, 0);
   if (err != ESP_OK)
@@ -66,6 +67,7 @@ esp_err_t my_uart_init(uart_t *uart) {
 
   return ESP_OK; // Return success if both operations succeed
 }
+
 
 // ISR to detect the start of the UART reception (start bit)
 IRAM_ATTR void uart_rx_isr_handler(void *arg) { start_bit_detected = 1; }
