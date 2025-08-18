@@ -2,6 +2,9 @@
 #include "../WiFi/WiFi.h"
 
 void ota_update(void) {
+
+	wifi_init_sta();
+
 	printf("[OTA] Starting OTA...\n");
 
 	esp_http_client_config_t config = {.url = OTA_URL, .timeout_ms = 5000};

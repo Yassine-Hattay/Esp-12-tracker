@@ -13,4 +13,6 @@
 #define UART_SIM800_BAUD     9600
 #define BUF_SIZE             1024
 
+void sim800_task(void *arg);
+
 #endif
