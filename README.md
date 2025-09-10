@@ -28,7 +28,7 @@ A typical execution sequence of the tracker is as follows:
 4. The SIM800L then attempts to send an SMS containing the GPS coordinates and the current battery voltage.  
 5. In case of a transmission error, the module retries sending the SMS a predefined number of times. Before entering deep sleep, the ESP resets the SIM800L to ensure proper operation on the next wake-up.  
 
-For more details on the power management sequence, you can run the **LTspice simulation** `tracker.asc` found in the **"ltspice sim"** folder.  
+For more details on the power management sequence, you can explore the **LTspice simulation** `tracker.asc` found in the **"ltspice sim"** folder.  
 
 <img width="1359" height="854" alt="image" src="https://github.com/user-attachments/assets/6b420ab4-b320-4bd4-a721-e0b7fd75fad8" />
 
@@ -37,7 +37,7 @@ Screenshot of the LTspice schematic
 </div>
 
 ## b - android app
-**Note:** This app that does not require internet connection to work only a sim signal for sms receiving and gps loctaion for navigation .   
+**Note:** This app that does not require internet connection to work only a sim signal for sms receiving and gps location for navigation .   
 <div align="center">
 <img width="155" height="156" alt="Capture d'écran 2025-09-10 123008_upscayl_3x_ultrasharp" src="https://github.com/user-attachments/assets/f5373d89-f3a2-4ab4-b191-2ab1548f544d" />  
 </div>
