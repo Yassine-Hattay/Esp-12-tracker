@@ -11,7 +11,6 @@
 #define WIFI_SSID "Orange-066C"
 #define WIFI_PASS "GMA6ABLMG87"
 
-esp_err_t ICACHE_FLASH_ATTR wifi_event_handler(void *ctx, system_event_t *event);
 void wifi_init_sta(void);
 
 
