@@ -8,7 +8,7 @@ The user receives GPS coordinates via SMS from the tracker through a custom-made
 I used the [ESP8266 FreeRTOS SDK](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/index.html) with **Eclipse IDE** to develop this project.  
 
 # 3 - Wiring
-*(Details can be added here or referenced from the schematic)*  
+<img width="1448" height="1285" alt="image" src="https://github.com/user-attachments/assets/9c817e38-7827-449e-87d5-ab1f748e6cd6" />
 
 # 4 - Code
 
