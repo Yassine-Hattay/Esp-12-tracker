@@ -57,7 +57,7 @@ The app also supports marker placement , clicking the bottom button with the fla
 <img src="https://github.com/user-attachments/assets/23aa512c-60d8-4f45-8081-07b579c3b74c" width="250" />
 
 
-Clicking the top right button will zoom in on your location represented as a red triangle updating it in real time .
+Clicking the top right button will zoom in on your location represented as a red triangle refreshing in real time .
 
 <img src="https://github.com/user-attachments/assets/5f4b6cfd-7610-49a0-97b6-6c906a30c078" width="250" />
 
