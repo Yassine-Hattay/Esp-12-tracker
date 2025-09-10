@@ -14,8 +14,5 @@ I used the [ESP8266 FreeRTOS SDK](https://docs.espressif.com/projects/esp8266-rt
 
 [Android app repo](https://github.com/Yassine-Hattay/Esp-12-tracker-mobile-app)
 
-
-
 # 5 - How it works:
-Initially, when the ESP-12 wakes up, the user has access to two buttons.  
-If they press the OTA update button, the ESP will try to update it's code by downloading new firmware over wifi.
+The user has access to two buttons as long as the esp is not in deep sleep mode and excuting code pressing the OTA button will trigger the updating of it's firmware via wifi from a server that uses a python script like host_bin.py in this repo .
