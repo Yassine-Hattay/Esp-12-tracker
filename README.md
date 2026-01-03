@@ -59,8 +59,6 @@ The app also supports marker placement , clicking the bottom button with the fla
 
 Clicking the top right button will zoom in on your location represented as a red triangle refreshing in real time .
 
-<img src="https://github.com/user-attachments/assets/5f4b6cfd-7610-49a0-97b6-6c906a30c078" width="250" />
-
 
 You can choose wich location to create a route between by clicking marker icon at the bottom , here in the example photo i selected my current location and the marker i placed earlier.
 then clicking the arrow icon positioned bottom right will calcualte and show a route represented as a blue line between the selected locations .
