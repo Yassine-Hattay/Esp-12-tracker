@@ -53,8 +53,6 @@ After receiving the coordinates the user can click the bottom left filter button
 The app also supports marker placement , clicking the bottom button with the flag icon causes a red X to appear clicking the button again , places a marker at that X .
 
 
-<img src="https://github.com/user-attachments/assets/214d2c62-e82f-4d14-af86-cbf6dfa9d86c" width="250" />
-<img src="https://github.com/user-attachments/assets/23aa512c-60d8-4f45-8081-07b579c3b74c" width="250" />
 
 
 Clicking the top right button will zoom in on your location represented as a red triangle refreshing in real time .
