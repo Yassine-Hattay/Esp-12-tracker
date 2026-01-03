@@ -61,7 +61,4 @@ Clicking the top right button will zoom in on your location represented as a red
 You can choose wich location to create a route between by clicking marker icon at the bottom , here in the example photo i selected my current location and the marker i placed earlier.
 then clicking the arrow icon positioned bottom right will calcualte and show a route represented as a blue line between the selected locations .
 
-<img src="https://github.com/user-attachments/assets/b95ff2dd-a3c7-428b-99a1-b019df4d7336" width="250" />
-<img src="https://github.com/user-attachments/assets/16e690ff-13cb-4b5c-b86c-345d0b4c7076" width="250" />
-
 **Note:** the routing is fully offline and is supported by hosting [grahopper](https://github.com/graphhopper/graphhopper) on termux 
