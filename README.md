@@ -9,6 +9,7 @@ I used the [ESP8266 FreeRTOS SDK](https://docs.espressif.com/projects/esp8266-rt
 
 # 3 - Wiring
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/3b88598c-e8f1-4d3d-bb59-dfddd651f074" />
+
 ![16b4b6c2-a6ea-479b-b240-2462814a3208](https://github.com/user-attachments/assets/9cc85d67-7d22-401c-9ae0-2eb35b4d5ce4)
 
 # 4 - Code
